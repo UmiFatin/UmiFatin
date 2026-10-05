@@ -1,4 +1,3 @@
-[profile-README-template.md](https://github.com/user-attachments/files/33063920/profile-README-template.md)
 # Hi, I'm Umi Fatin Binti Mohammad Affandi
 
 [One line about you. Example: Computer Science student at UiTM interested in software engineering and AI.]
