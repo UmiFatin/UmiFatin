@@ -1,17 +1,18 @@
 # Hi, I'm Umi Fatin Binti Mohammad Affandi
 
-[One line about you. Example: Computer Science student at UiTM interested in software engineering and AI.]
+Computer Science student at UiTM interested in AI and web development.
 
 ## About me
 - Studying: Bachelor of Computer Science (Hons.), UiTM
 - Currently learning: Github Tutorial
-- My FYP area: Photography
+- My FYP area: Photography area
 
 ## Skills and tools
 [List what you know. Example: Python, Git, SQL]
+C++ | Java | HTML | CSS | PHP | SQL 
 
 ## Projects
-- [Project name](link-to-your-repository): one sentence about it
+- [AI-Assisted Photo Culling System For Professional Event Photography Using Deep Learning](https://github.com/UmiFatin/Assignment1): one sentence about it
 
 ## Contact
 - LinkedIn: www.linkedin.com/in/umifatin
