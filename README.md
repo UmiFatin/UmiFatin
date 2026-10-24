@@ -8,13 +8,14 @@ Computer Science student at UiTM interested in AI and web development.
 - My FYP area: Photography area
 
 ## Skills and tools
-[List what you know. Example: Python, Git, SQL]
 C++ | Java | HTML | CSS | PHP | SQL 
 
 ## Projects
-- [AI-Assisted Photo Culling System For Professional Event Photography Using Deep Learning](https://github.com/UmiFatin/Assignment1): one sentence about it
+- [AI-Assisted Photo Culling System For Professional Event Photography Using Deep Learning](https://github.com/UmiFatin/Assignment1):
+
+  A computer vision system that checks the eyes, mouth and head direction of every face in an event photograph and ranks the photograph as Good, Fair or Poor by percentage. 
 
 ## Contact
 - LinkedIn: www.linkedin.com/in/umifatin
-- Email: [a professional email address]
+- Email: umifatinaffandi@gmail.com 
 - Website: https://fyzmet.my.canva.site/umifatin
