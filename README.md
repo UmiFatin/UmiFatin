@@ -14,5 +14,5 @@
 - [Project name](link-to-your-repository): one sentence about it
 
 ## Contact
-- LinkedIn: [your profile link]
+- LinkedIn: www.linkedin.com/in/umifatin
 - Email: [a professional email address]
